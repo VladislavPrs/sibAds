@@ -492,12 +492,11 @@ body.lock {
   max-width: 100px;
   line-height: 1.1;
   letter-spacing: 0em;
-  font-weight: 200;
+  font-weight: 700;
   margin-bottom: 20px;
 }
 @media screen and (max-width: 1199.98px) {
   .card-technic__title {
-    font-weight: 700;
     max-width: 370px;
   }
 }
